@@ -1,20 +1,27 @@
-<<<<<<< HEAD
-# bus
+# Basketball Counter App
 
-A new Flutter project.
+A simple Flutter application to keep track of the score in a basketball game. This app is designed to provide an intuitive interface for tracking the score of two teams.
+
+## Features
+
+- Increment or decrement the score of Team A or Team B.
+- Reset the scores to start a new game.
+- Clean and user-friendly interface.
+
+## Screenshots
+
+*(Include screenshots of the app here, if available)*
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this Flutter project on your local machine:
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Make sure you have Flutter installed. You can follow the [Flutter installation guide](https://docs.flutter.dev/get-started/install) for your operating system.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Flutter-Projects
->>>>>>> 0d0d11b4a7fb3ff97e09c735c6003a35c5a9d1cc
+### Steps to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mariamosamaa/Flutter-Projects.git
